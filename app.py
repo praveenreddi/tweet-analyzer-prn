@@ -12,10 +12,10 @@ import seaborn as sns
 
 
 
-consumerKey = #confidential
-consumerSecret = #confidential
-accessToken = #confidential
-accessTokenSecret = #confidential
+consumerKey = 6QXd5KUBnWRQxl2yBmUkf6t7T
+consumerSecret = AY0dy4ghyzUBuuq5nNZDKsBjln1aRTUN5rn6ypKSnT6TmP7eZL
+accessToken = 1218219224864215040-al3BHaWtuWMH27XqJQGzZmah0pRjxa
+accessTokenSecret = idqGAmLTOLcKvYzyukWhFfEoBntpblz1bYwtVgA4axpXG
 
 
 #Create the authentication object
@@ -295,7 +295,7 @@ def app():
 
 
 
-	st.subheader(' ------------------------Created By :  HARIT SHANDILYA ---------------------- :sunglasses:')
+	st.subheader(' ------------------------Created By :  Praveen Reddy ---------------------- :sunglasses:')
 
 
 			
