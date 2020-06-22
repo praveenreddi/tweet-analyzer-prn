@@ -57,9 +57,6 @@ def app():
 
 	st.title("Tweet Analyzer 🔥")
 	
-	image = Image.open('WC.jpg')
-        st.image(image, use_column_width=True)
-
 
 	activities=["Tweet Analyzer","Generate Twitter Data"]
 
@@ -298,7 +295,7 @@ def app():
 
 
 
-	st.subheader(' ------------------------Created By :  Praveen Reddy ---------------------- :sunglasses:')
+	st.subheader(' ------------------------@copyrights:Praveen reddy ---------------------- :sunglasses:')
 
 
 			
