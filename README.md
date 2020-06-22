@@ -1,6 +1,6 @@
 # Tweet-Analyzer
 
-Web App Link : https://tweet-analyzer-tool.herokuapp.com/
+Web App Link : https://tweetsanalyzer-prn.herokuapp.com/
 
 This is a cool web app integrated with twitter which takes the twitter handel as as input and does :
 
@@ -30,7 +30,7 @@ Twitter Data : File created after every query on the web app
 
 Requirements.txt: Requirement file
 
-setup.sh : predefined file for streamlite on heroku
+#setup.sh : predefined file for streamlite on heroku
 
 This app is created on a tool called Streamlit which saves you from the headache of front-end devlopment ,you can install it by:
 Streamlit documentation: https://docs.streamlit.io/en/latest/
